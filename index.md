@@ -3,3 +3,8 @@
 
 ### a so on
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```js
+let git = "learn github"
+
+```
